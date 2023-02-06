@@ -3,3 +3,5 @@
 /__pycahe__
 *.pyc
 .flaskenv
+config.ini
+*.ini
